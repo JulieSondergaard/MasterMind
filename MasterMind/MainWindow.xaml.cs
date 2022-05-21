@@ -330,10 +330,7 @@ namespace MasterMind
 
                         Round2();
 
-//# FF8FBC8F
-//# FF000000
-//# FFFFFF00
-//# FFFFA500
+
 
                     }
                     if (round == 3)
